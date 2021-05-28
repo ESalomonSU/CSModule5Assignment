@@ -1,0 +1,12 @@
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/bin/Debug/netcoreapp3.1/CSModule5.deps.json
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/bin/Debug/netcoreapp3.1/CSModule5.runtimeconfig.json
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/bin/Debug/netcoreapp3.1/CSModule5.runtimeconfig.dev.json
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/bin/Debug/netcoreapp3.1/CSModule5.dll
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/bin/Debug/netcoreapp3.1/CSModule5.pdb
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.csprojAssemblyReference.cache
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.AssemblyInfoInputs.cache
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.AssemblyInfo.cs
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.csproj.CoreCompileInputs.cache
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.dll
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.pdb
+/Users/salom11/Desktop/CSModule5/CSModule5/CSModule5/obj/Debug/netcoreapp3.1/CSModule5.genruntimeconfig.cache
